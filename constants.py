@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 import random
 import unidecode
-API_KEY = '2056556321:AAGOS7gxIrf6EH1oVmLOBei1bBb5tMU9yhs'
+API_KEY = '' #SET YOUR TELEGRAM TOKEN
 
 BASE_URL = 'https://www.antoloji.com'
 POETS_URL = BASE_URL + '/populer-sairler/sirala-/sayfa-'
