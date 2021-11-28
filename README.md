@@ -4,4 +4,4 @@ A telegram bot is written in Python that does web scraping and share poetry from
 
 ## Usage
 
-For testing CemalSureya, visit @CemalSureya_bot on Telegram.
+visit @CemalSureya_bot on Telegram.
